@@ -1,0 +1,4 @@
+D:\Game Dev\17605096 Joshua Massey POE Task 2 GADE6112\17605096_Task2_GADE6112\obj\Debug\_17605096_Task2_GADE6112.Form1.resources
+D:\Game Dev\17605096 Joshua Massey POE Task 2 GADE6112\17605096_Task2_GADE6112\obj\Debug\_17605096_Task2_GADE6112.Properties.Resources.resources
+D:\Game Dev\17605096 Joshua Massey POE Task 2 GADE6112\17605096_Task2_GADE6112\obj\Debug\17605096_Task2_GADE6112.csproj.GenerateResource.Cache
+D:\Game Dev\17605096 Joshua Massey POE Task 2 GADE6112\17605096_Task2_GADE6112\obj\Debug\17605096_Task2_GADE6112.csproj.CoreCompileInputs.cache
