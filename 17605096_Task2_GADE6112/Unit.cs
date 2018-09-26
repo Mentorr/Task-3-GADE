@@ -25,6 +25,7 @@ namespace _17605096_Task2_GADE6112
 
             abstract public void Move(Direction direction);
             abstract public void Combat(Unit u);
+            abstract public void INeedHealing(Unit u);
             abstract public bool InRange(Unit u);
             abstract public Unit Closest(Unit[] units);
             abstract public bool IsDead();
